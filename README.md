@@ -6,7 +6,7 @@
 3. 🟩C#
 4. 🟥C++
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on:
 1. 💳Profile cards
 2. 👀My personal portfolio
 3. 🤖Atom bot (discord)
