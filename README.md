@@ -20,5 +20,5 @@
 
   <br/>  <br/>  <br/>
 
-<p algin="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itork-glitch&show_icons=true&locale=en" alt="itork-glitch" /></p>
+<p algin="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itork-glitch&show_icons=true&locale=en" alt="itork-glitch" /></p>
 
