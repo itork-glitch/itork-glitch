@@ -20,5 +20,5 @@
 
   <br/>  <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itork-glitch&show_icons=true&theme=dark&text_color=0091ff&locale=en" alt="itork-glitch" /></p>
+<p align="center"><img align="center" src="[https://github-readme-stats.vercel.app/api?username=itork-glitch&show_icons=true&theme=dark&text_color=0091ff&locale=en](https://github-readme-stats.vercel.app/api?username=itork-glitch&show_icons=true&theme=dark&text_color=0091ff&hide_border=true&locale=en)https://github-readme-stats.vercel.app/api?username=itork-glitch&show_icons=true&theme=dark&text_color=0091ff&hide_border=true&locale=en" alt="itork-glitch" /></p>
 
