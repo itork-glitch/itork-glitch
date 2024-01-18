@@ -24,4 +24,4 @@
 
 <p align="center"> <img aligin="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itork-glitch&show_icons=true&theme=dark&text_color=0091ff&hide_border=true&locale=en"" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itork-glitch)]
