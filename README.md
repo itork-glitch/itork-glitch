@@ -24,4 +24,4 @@
 
 <p align="center"> <img aligin="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itork-glitch&show_icons=true&theme=dark&text_color=0091ff&hide_border=true&locale=en&count_private=true"" /> </p>
 
-<p align="center"> <img aligin="center" src="https://github-readme-stats-five-beryl-56.vercel.app/api?username=itork-glitch&count_private=true" /> </p>
+<p align="center"> <img aligin="center" src="https://github-readme-stats-five-beryl-56.vercel.app/api/top-langs/?username=itork-glitch&count_private=true" /> </p>
