@@ -20,8 +20,8 @@
 
   <br/>  <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itork-glitch&show_icons=true&theme=dark&text_color=0091ff&hide_border=true&locale=en" alt="itork-glitch" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itork-glitch&count_private=true&show_icons=true&theme=dark&text_color=0091ff&hide_border=true&locale=en" alt="itork-glitch" /></p>
 
 <p align="center"> <img aligin="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itork-glitch&show_icons=true&theme=dark&text_color=0091ff&hide_border=true&locale=en&count_private=true"" /> </p>
 
-https://github-readme-stats-git-master-itork-glitch.vercel.app/api/top-langs/?username=itork-glitch 
+<p align="center"> <img aligin="center" src="https://github-readme-stats-git-master-itork-glitch.vercel.app/api/top-langs/?username=itork-glitch"" /> </p>
