@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itork-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="itork-glitch" /> </p>
 
-- 🔭 I’m currently working on **Website E-commerce**
+- 🔭 I’m currently working on **[TuneStats](https://tunestats.eu)**
 
 - 🌱 I’m currently learning **React, Next, .NET**
 
-- 👨‍💻 All of my projects are available at [https://itork.net](https://itork.net)
-
-- 💬 Ask me about **React, Next**
-
-- 📫 How to reach me **itork555@gmail.com**
+- 💬 Want something? Dm me
 
   <br/>
 
